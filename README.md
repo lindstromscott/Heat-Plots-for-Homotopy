@@ -1,3 +1,6 @@
+![entropy and entropy 2](https://user-images.githubusercontent.com/30104573/141713665-b6ec55d2-ceea-4641-8d9a-03065dab5b29.png)
+
+
 # Heat-Plots-for-Homotopy
 Create heat plots to show the continuous transformation of one function into another
 
